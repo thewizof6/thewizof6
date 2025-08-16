@@ -15,7 +15,7 @@ I started in the U.S Air Force as a _Communications - Computer Systems Control T
 
 * Working with my hands has always been a passion - woodworking, auto mechanics, home maintenance, and more.  I recently started sharpening knives and tools as a side hustle.
 
-* My immediate technical goal is to learn IoT implementation for small farm applications.  An interview with a company that specializes in MQTT introduced me to IoT and its vast potential.  My preferred language is **Python**. I am also learning **HTML **, ** CSS **, and ** JavaScript** in Udacity's Web Front-end Development program. 
+* My immediate technical goal is to learn IoT implementation for small farm applications.  An interview with a company that specializes in MQTT introduced me to IoT and its vast potential.  My preferred language is **Python**. I am also learning **HTML**, **CSS**, and **JavaScript** in Udacity's Web Front-end Development program. 
 
 
 
